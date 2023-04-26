@@ -17,7 +17,7 @@ function End_point_method(x_ini::Number)
     return x, err
 end 
 
-x_sol, errd = Met_punto_fijo(0.0)
+x_sol, errd = End_point_method(0.0)
 
 #Plot err using log scale
 using Plots
