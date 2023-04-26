@@ -7,7 +7,7 @@ This repository is a collection of exercises and projects related to the program
 
 This repository uses knowledge acquired in the learning of different numerical methods, such as:
 
-> PLease keep in mind that excel file mustb be dowloaded in oder to analize the load flow
+> keep in mind that excel file is attached to this repository
 
  - **End Point Method**: Iterative calculation method that allows finding the end point of a dynamic system.
 	 $$x_{k+1} = f(x_{k},t_{k},\Delta t) $$
