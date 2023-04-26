@@ -1,5 +1,5 @@
 # Numerical Methods and Power Systems Analysis in Julia Repository
-# Marcela aprende Git y GitHub
+
 > Universidad Tecnológica de Pereira\
 > Electrical enginnering program 
 
